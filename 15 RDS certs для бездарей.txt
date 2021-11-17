@@ -1,4 +1,4 @@
-smbclient -U Пользак //ip-INET-CLI/Папка
+smbclient -U РџРѕР»СЊР·Р°Рє //ip-INET-CLI/РїР°РїРєР°
 
 openssl pkcs12 -in <name>.pfx -clcerts -nokeys -out <name>.cer
 openssl pkcs12 -nodes -in <name>.pfx -nocerts -out <name>.key
