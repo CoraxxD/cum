@@ -11,7 +11,7 @@ ip route add 172.16.20.0/24 via 100.100.100.2
 
 nano /etc/rc.local
 
-добавить строку:    /opt/gre.up
+РІ РєРѕРЅРµС† РЅР°РїРёСЃР°С‚СЊ:    /opt/gre.up
 
 chmod +x /opt/gre.up /etc/rc.local
 
