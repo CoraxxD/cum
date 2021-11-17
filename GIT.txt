@@ -1,0 +1,6 @@
+git init
+git add . 
+git commit -m "first commit" (при вносе изменений в файлы, перезапись)
+git branch -M main (создать ветку, не репу)
+git remote add origin https://github.com/qwertyebik/branch.git (представить репу в виде origin)
+git push -u origin main (добавляем ветку main в репу branch под именем origin)
